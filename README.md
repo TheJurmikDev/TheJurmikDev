@@ -1,40 +1,49 @@
 # 🌟 O mně
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
-│ 👋 Ahoj! Jsem **Miroslav Vaněk**, známý jako **TheJurmik**, vývojář se zaměřením na **Java**, **Python** a **webové technologie**.  
-│ Miluju programování, učení nových technologií a řešení zajímavých výzev. 🧩  
+│ 👋 Ahoj! Jsem **Miroslav Vaněk**, známý jako **TheJurmik**, vývojář specializující se na **Java**, **Python** a **webové technologie**.  
+│ Mám vášeň pro programování a neustále se učím nové technologie, které mě motivují k dalším výzvám. 🧩  
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
 
 ## 💻 Technologie a dovednosti
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
-│ **Programovací jazyky**: Java, Python  
-│ **Webové technologie**: Html, Css, JavaScript  
+**Programovací jazyky**:  
+- Java  
+- Python  
+
+**Webové technologie**:  
+- HTML  
+- CSS  
+- JavaScript  
+
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
 
 ## 🚀 Projekty
-| **Název projektu**   | **Popis**                                            | **Technologie**      |
-|----------------------|------------------------------------------------------|----------------------|
-| [LinkTree](#)        | Jednoduchej ale stylovej linktree web                | Html, Css            |
-| [Web Backend](#)     | Jednoduchej web backend v pythonu                    | Python, Flask        |
-| [To Do List](#)      | To Do List s ukládacím systémem                      | Python               |
+╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
+| **Název projektu**   | **Popis**                                          | **Technologie**      |  
+|----------------------|----------------------------------------------------|----------------------|  
+| [LinkTree](#)        | Stylový linktree web, jednoduchý a přehledný       | HTML, CSS            |  
+| [Web Backend](#)     | Web backend v Pythonu s frameworkem Flask          | Python, Flask        |  
+| [To Do List](#)      | Aplikace pro správu úkolů s ukládacím systémem     | Python               |  
+╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
 
 ## 🌱 Co mě baví
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
-│ ✨ Tvorba efektivního kódu  
-│ ✨ Učení nových technologií a frameworků  
-│ ✨ Práce na projektech, které mají dopad  
+- Tvorba efektivního a čistého kódu  
+- Učení nových frameworků a technologií  
+- Vývoj projektů, které mohou pozitivně ovlivnit uživatele  
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
 
 ## 📫 Kontakt
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
-│ 📧 Email: **thejurmik@gmail.com**  
-│ 💼 LinkedIn: [BRZY](#)  
-│ 🌐 Portfolio: [BRZY](#)  
+📧 **Email**: thejurmik@gmail.com  
+💼 **LinkedIn**: [BRZY](#)  
+🌐 **Portfolio**: [BRZY](#)  
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
