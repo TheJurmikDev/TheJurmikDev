@@ -1,7 +1,7 @@
 ## 📙 O mně
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮ 
 
-  Ahoj! Jsem **Miroslav Vaněk**, známý jako **TheJurmik**
+  Ahoj! Jsem **Miroslav Vaněk**, známý jako **TheJurmik** ahoj
   vývojář specializující se na **Java**, **Python** a **webové technologie**,
   
   Mám vášeň pro programování a neustále se učím nové technologie,
