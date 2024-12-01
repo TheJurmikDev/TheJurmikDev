@@ -16,7 +16,6 @@
 | [LinkTree](#)     | Jednoduchej ale stylovej linktree web          | Html, Css            |
 | [Web Backend](#)  | Jednoduchej web backend v pythonu              | Python, Flask        |
 | [To Do List](#)   | To Do List s ukládacím systémem                | Python               |
-| [Arc Client](#)   | Minecraft cheat client                         | Java                 |
 
 ---
 
