@@ -39,17 +39,19 @@
 ## 🎃 Co mě baví
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
 
-- Tvorba zajímavích programů  
-- Nove jazyky a věci okolo počítačů  
+- Tvorba zajímavých programů  
+- Nové jazyky a věci okolo počítačů  
 - Zajímaví úkoli a překážky
   
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
 
-## 📫 Kontakt
+## 🍊 Kontakt
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
+
 📧 **Email**: thejurmik@gmail.com  
-💼 **LinkedIn**: [BRZY](#)  
+💼 **Discord**: [thejurmik](https://discord.com/users/1267455260452978782)  
 🌐 **Portfolio**: [BRZY](#)  
+
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
