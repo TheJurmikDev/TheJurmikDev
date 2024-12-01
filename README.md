@@ -26,16 +26,13 @@
 
 ---
 
-## 🏀 Projekty
-╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
+## 🏀 Projekty 
 
 | **Projekt**       | **Popis**                                        | **Technologie**  |  
 |-------------------|--------------------------------------------------|------------------|  
 | [LinkTree](#)     | Stylový linktree web, jednoduchý a přehledný     | HTML, CSS        |  
 | [Web Backend](#)  | Web backend v Pythonu s frameworkem Flask        | Python, Flask    |  
 | [To Do List](#)   | Aplikace pro správu úkolů s ukládacím systémem   | Python           |  
-
-╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
 
