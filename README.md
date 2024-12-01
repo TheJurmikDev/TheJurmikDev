@@ -36,11 +36,13 @@
 
 ---
 
-## 🌱 Co mě baví
+## 🎃 Co mě baví
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
-- Tvorba efektivního a čistého kódu  
-- Učení nových frameworků a technologií  
-- Vývoj projektů, které mohou pozitivně ovlivnit uživatele  
+
+- Tvorba zajímavích programů  
+- Nove jazyky a věci okolo počítačů  
+- Zajímaví úkoli a překážky
+  
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
 ---
