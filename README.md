@@ -15,12 +15,13 @@
 
 **Programovací jazyky**:  
 - Java  
-- Python  
+- Python
+- JavaScript  
 
 **Webové technologie**:  
-- HTML  
-- CSS  
-- JavaScript  
+- Html
+- CSS
+- Node.js
 
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
