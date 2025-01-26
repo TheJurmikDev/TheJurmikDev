@@ -34,7 +34,7 @@
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
 
 📧 **Email**: thejurmik@gmail.com  
-💼 **Discord**: [thejurmik](https://discord.com/users/1267455260452978782)  
+💼 **Discord**: [thejurmik._.](https://discord.com/users/1288493825337196566)  
 🌐 **Portfolio**: [BRZY](#)  
 
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
