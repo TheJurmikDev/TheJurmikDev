@@ -16,12 +16,15 @@
 **Programovací jazyky**:  
 - Java  
 - Python
-- JavaScript  
+- JavaScript
+- Rust
+- C++
 
 **Webové technologie**:  
 - Html
 - CSS
 - Node.js
+- React
 
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
