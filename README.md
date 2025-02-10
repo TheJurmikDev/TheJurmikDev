@@ -17,7 +17,6 @@
 - Java  
 - Python
 - JavaScript
-- Rust
 - C++
 
 **Webové technologie**:  
