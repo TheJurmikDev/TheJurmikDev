@@ -5,6 +5,7 @@
   - Vývojář specializující se na **Java**, **Python** a **webové technologie**
   - Mám vášeň pro programování a neustále se učím nové technologie
   - A mám také každodení motivaci pro další výzvy.
+  - Samozřejmě vše co jsem se naučil tak jsem zapoměl 😭
   
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
 
