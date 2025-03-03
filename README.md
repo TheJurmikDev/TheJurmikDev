@@ -11,7 +11,7 @@
 
 ---  
 
-## ⚡ Technologies and Skills  
+## 📄 Technologies and Skills  
 ╭── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╮  
 
 **Programming Languages**:  
