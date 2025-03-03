@@ -1,5 +1,5 @@
 ## 📙 About Me
-╭── ⋅ � ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
+╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
 
   - Hi! I am **Miroslav Vaněk**, known as **TheJurmik**  
   - A developer specializing in **Java**, **Python**, and **web technologies**  
