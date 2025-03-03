@@ -1,41 +1,41 @@
-## 📙 O mně
-╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮ 
+## 📙 About Me
+╭── ⋅ � ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
 
-  - Ahoj! Jsem **Miroslav Vaněk**, známý jako **TheJurmik**
-  - Vývojář specializující se na **Java**, **Python** a **webové technologie**
-  - Mám vášeň pro programování a neustále se učím nové technologie
-  - A mám také každodení motivaci pro další výzvy.
-  - Samozřejmě vše co jsem se naučil tak jsem zapoměl 😭
-  
-╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
+  - Hi! I am **Miroslav Vaněk**, known as **TheJurmik**  
+  - A developer specializing in **Java**, **Python**, and **web technologies**  
+  - I have a passion for programming and am constantly learning new technologies  
+  - I also have daily motivation for new challenges.  
+  - Of course, I’ve forgotten everything I’ve learned 😭  
 
----
+╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯  
 
-## 🎃 Technologie a dovednosti
+---  
+
+## 🎃 Technologies and Skills  
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
 
-**Programovací jazyky**:  
+**Programming Languages**:  
 - Java  
-- Python
-- TypeScript
-- C++
+- Python  
+- TypeScript  
+- C++  
 
-**Webové technologie**:  
-- Html
-- CSS
-- JavaScript
-- Node.js
-- React
+**Web Technologies**:  
+- HTML  
+- CSS  
+- JavaScript  
+- Node.js  
+- React  
 
-╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
+╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯  
 
----
+---  
 
-## 🍊 Kontakt
+## 🍊 Contact  
 ╭── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╮  
 
 📧 **Email**: thejurmik@gmail.com  
 💼 **Discord**: [thejurmik._.](https://discord.com/users/1288493825337196566)  
-🌐 **Portfolio**: [BRZY](#)  
+🌐 **Portfolio**: [COMING SOON](#)  
 
 ╰── ⋅ 🍞 ⋅ ── ✧🥐✧ ── ⋅ 🍯 ⋅ ──╯
