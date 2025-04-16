@@ -17,7 +17,8 @@
 **Programming Languages**:  
 - Java  
 - Python  
-- TypeScript  
+- TypeScript
+- Rust 
 - C++  
 
 **Web Technologies**:  
