@@ -39,6 +39,6 @@
 
 📧 **Email**: thejurmik@gmail.com  
 💼 **Discord**: [thejurmik._.](https://discord.com/users/1288493825337196566)  
-🌐 **Portfolio**: [COMING SOON](#)  
+🌐 **Portfolio**: [thejurmik.dev](https://www.thejurmik.dev/)  
 
 ╰── ⋅ 🤍 ⋅ ── ✧🤍✧ ── ⋅ 🤍 ⋅ ──╯  
